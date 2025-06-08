@@ -1,0 +1,19 @@
+{
+  "brands": [
+    {
+      "utmSource": "camp",
+      "appName": "Camp Browser",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/browser-branding/main/icons/camp.png"
+    },
+    {
+      "utmSource": "artifact", 
+      "appName": "Artifact Browser",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/browser-branding/main/icons/artifact.png"
+    },
+    {
+      "utmSource": "blockmesh",
+      "appName": "Sapien Browser", 
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/browser-branding/main/icons/sapien.png"
+    }
+  ]
+}
