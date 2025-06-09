@@ -12,8 +12,8 @@
     },
     {
       "utmSource": "blockmesh",
-      "appName": "Sapien Browser", 
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/browser-branding/main/icons/sapien.png"
+      "appName": "Blockmesh", 
+      "iconUrl": "https://raw.githubusercontent.com/wootzapp/ext-store/main/Blockmesh%20Network/blockmesh-icon.png"
     }
   ]
 }
